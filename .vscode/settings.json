@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/22040db0-405b-4ef1-a676-6013f1b06630/resourceGroups/test_rg/providers/Microsoft.Web/sites/hwreact",
+    "appService.deploySubpath": "build"
+}
